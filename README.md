@@ -7,7 +7,7 @@ Visualize time-series performance of sales and profit.
 Identify areas needing strategic intervention to improve returns, profitability, and regional performance.
 
 ## Scenarios
-1.Regional Sales Strategy:
+1.Regional Sales Strategy: 
  Identify top-performing (West) and low-performing regions (South) to make marketing and sales allocation decisions.
  
 2.Managerial Performance Review:
