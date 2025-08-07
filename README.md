@@ -1,6 +1,6 @@
 #  Sales and Returns Performance Analysis by Region and Manager (Interactive Dashboard creation by using Tableau)
 ##  Project Objective
-  To analyze and understand the overall sales, profit, returns, and discounts across various regions and managers, and how different categories of        products are performing in terms of returns. The aim is to provide actionable insights for sales strategy and operational improvements..
+          To analyze and understand the overall sales, profit, returns, and discounts across various regions and managers, and how different categories of        products are performing in terms of returns. The aim is to provide actionable insights for sales strategy and operational improvements..
 ## Dataset used
 - <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Sales%20%20Dataset.xlsx"> Dataset</a>
 ## Scenarios
