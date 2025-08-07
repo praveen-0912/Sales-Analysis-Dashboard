@@ -25,6 +25,8 @@ Identify areas needing strategic intervention to improve returns, profitability,
     Year-wise trend shows a rise in profit and sales in recent periods. Strategic actions taken earlier might be working well.
 ### 6.Sales vs Return Analysis:
     Scatter plot helps to understand how returns impact profit compared to non-returned orders, identifying risk products or customers.
+    
+- Dashboard Interaction <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-08-07%20200756.png">View Dashboard</a>
 
 ## Conclusion
    West region leads in sales; South needs improvement.
