@@ -40,3 +40,10 @@ Identify areas needing strategic intervention to improve returns, profitability,
    Sales and profits are increasing in recent years, showing upward business growth.
 
    The dashboard helps make data-driven decisions on product focus, team management, discount policies, and customer return handling.
+   
+   ## Dashboard
+
+   <img width="1918" height="1069" alt="Screenshot 2025-08-07 200756" src="https://github.com/user-attachments/assets/fc1742ae-517a-4a94-8efc-32c492d0bc52" />
+
+   
+   
