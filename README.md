@@ -1,17 +1,8 @@
-#  Sales and Returns Performance Analysis by Region and Manager (Interactive Dashboard creation using Tableau)
+#  Sales and Returns Performance Analysis by Region and Manager (Interactive Dashboard creation by using Tableau)
 ##  Project Objective
-Analyze sales distribution across regions.
-Assess profit contributions by managers.
-Track return trends by product categories.
-Visualize time-series performance of sales and profit.
-Identify areas needing strategic intervention to improve returns, profitability, and regional performance.
+  To analyze and understand the overall sales, profit, returns, and discounts across various regions and managers, and how different categories of        products are performing in terms of returns. The aim is to provide actionable insights for sales strategy and operational improvements..
 ## Dataset used
 - <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Sales%20%20Dataset.xlsx"> Dataset</a>
-
-
-
-
-
 ## Scenarios
 ### 1.Regional Sales Strategy: 
     Identify top-performing (West) and low-performing regions (South) to make marketing and sales allocation decisions.
