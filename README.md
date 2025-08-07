@@ -20,17 +20,17 @@
 - Dashboard Interaction <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-08-07%20200756.png">View Dashboard</a>
 
 ## Conclusion
-   West region leads in sales; South needs improvement.
+  - West region leads in sales; South needs improvement.
 
-   Chris is the most profitable manager, while Sam shows negative contribution and should be reviewed.
+  - Chris is the most profitable manager, while Sam shows negative contribution and should be reviewed.
 
-   Office Supplies category has the most returns, signaling a need to improve quality or after-sales service.
+  - Office Supplies category has the most returns, signaling a need to improve quality or after-sales service.
 
-   Overall return rate is very low (0.45%), which is a positive sign.
+  - Overall return rate is very low (0.45%), which is a positive sign.
 
-   Sales and profits are increasing in recent years, showing upward business growth.
+  - Sales and profits are increasing in recent years, showing upward business growth.
 
-   The dashboard helps make data-driven decisions on product focus, team management, discount policies, and customer return handling.
+  - The dashboard helps make data-driven decisions on product focus, team management, discount policies, and customer return handling.
    
    ## Dashboard
 
