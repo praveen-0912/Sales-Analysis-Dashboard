@@ -1,6 +1,6 @@
 #  Sales and Returns Performance Analysis by Region and Manager (Interactive Dashboard creation by using Tableau)
 ##  Project Objective
-     To analyze and understand the overall sales, profit, returns, and discounts across various regions and managers, and how different categories of        products are performing in terms of returns. The aim is to provide actionable insights for sales strategy and operational improvements..
+ To analyze and understand the overall sales, profit, returns, and discounts across various regions and managers, and how different categories of        products are performing in terms of returns. The aim is to provide actionable insights for sales strategy and operational improvements..
 ## Dataset used
 - <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Sales%20%20Dataset.xlsx"> Dataset</a>
 ## Scenarios
@@ -9,13 +9,13 @@
 ### 2.Managerial Performance Review:
     Chris and Erin show positive profits, while Sam reflects a loss (-17.86%). Training or restructuring may be needed.
 ### 3.Product Return Reduction Strategy:
-    Office Supplies category has the highest return count (871), followed by Technology (438). Further analysis may help reduce return rates and improve customer satisfaction.
+Office Supplies category has the highest return count (871), followed by Technology (438). Further analysis may help reduce return rates and improve customer satisfaction.
 ### 4.Discount Monitoring:
     The average discount is 4.77%, helping assess if discounts are boosting sales or unnecessarily reducing margins.
 ### 5.Trend Analysis Over Time:
     Year-wise trend shows a rise in profit and sales in recent periods. Strategic actions taken earlier might be working well.
 ### 6.Sales vs Return Analysis:
-    Scatter plot helps to understand how returns impact profit compared to non-returned orders, identifying risk products or customers.
+ Scatter plot helps to understand how returns impact profit compared to non-returned orders, identifying risk products or customers.
     
 - Dashboard Interaction <a href="https://github.com/praveen-0912/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-08-07%20200756.png">View Dashboard</a>
 
