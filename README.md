@@ -22,8 +22,13 @@ Identify areas needing strategic intervention to improve returns, profitability,
 
 ## Conclusion
 West region leads in sales; South needs improvement.
+
 Chris is the most profitable manager, while Sam shows negative contribution and should be reviewed.
+
 Office Supplies category has the most returns, signaling a need to improve quality or after-sales service.
+
 Overall return rate is very low (0.45%), which is a positive sign.
+
 Sales and profits are increasing in recent years, showing upward business growth.
+
 The dashboard helps make data-driven decisions on product focus, team management, discount policies, and customer return handling.
